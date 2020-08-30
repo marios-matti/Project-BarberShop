@@ -1,2 +1,2 @@
 # Project-BarberShop
-Barber Shop
+Barber Shop template with HTML , CSS, JAVASCRIPT
